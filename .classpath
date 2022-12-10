@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="libs/j3dcore-1.6.0-final.jar"/>
+	<classpathentry kind="lib" path="libs/j3dutils-1.6.0-final.jar"/>
+	<classpathentry kind="lib" path="libs/vecmath-1.6.0-final.jar"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-natives-macosx-universal-v2.4.0-rc-20210111.jar"/>
+	<classpathentry kind="lib" path="libs/gluegen-rt-v2.4.0-rc-20210111.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-natives-macosx-universal-v2.4.0-rc-20210111.jar"/>
+	<classpathentry kind="lib" path="libs/jogl-all-v2.4.0-rc-20210111.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_311]"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
